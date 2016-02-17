@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-__author__="great"
 
 class StackException(Exception):
     def __init__(self,msg):
